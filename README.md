@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jamie
-- 👀 I’m interested in learning Java and samp languages
-- 🌱 I’m currently learning Java and SAMP languages
+- 👋 Hi, I’m MYCQ
+- 👀 I’m interested in learning Java
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
